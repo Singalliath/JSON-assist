@@ -1,0 +1,20 @@
+[
+    {
+        
+        "product": "glow-in-the-dark Hoodie",
+        "description": "glow-in-the-dark Hoodie is a hoodie for night time folk who want to be seen no matter the time of day.",
+        "cost":"$69.96"
+    },
+    {
+        
+        "product": "glow-in-the-dark backpack",
+        "description": "glow-in-the-dark backpack is an innovative way to carry your items and glow to new heights.",
+        "cost":"$96.69"
+    },
+    {
+        
+        "product": "glow-in-the-dark combat shades",
+        "description": "glow-in-the-dark combat shades are revolutionary sunglasses that can light up in dark areas to see better at night and to block out the sun at day.",
+        "cost":"$19.99"
+    }
+]
